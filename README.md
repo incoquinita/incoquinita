@@ -2,7 +2,7 @@
 
 **Cybersecurity Analyst | Cloud Security | Compliance Assessment**
 
-Certified professional with extensive experience in security monitoring, vulnerability assessment, and infrastructure protection across **AWS**, **Azure**, and **OCI** environments. I work at the intersection of offensive and defensive security, cloud audit automation, and operational risk reduction.
+Certified professional with extensive experience in security monitoring, vulnerability assessment, and infrastructure protection across **AWS**, **Azure**, **GCP** and **OCI** environments. I work at the intersection of offensive and defensive security, cloud audit automation, and operational risk reduction.
 
 Currently at **Dedalus**, I lead security and compliance assessments in multicloud environments, develop security policies, and promote InfoSec culture within organizations.
 
@@ -65,14 +65,9 @@ Security and compliance assessments across AWS, Azure, and OCI. Security policy 
 - Led selection of a new assessment tool, achieving 90% cost savings
 
 **Movile** — *Infrastructure Analyst*  
-São Paulo, BR • 2020 – 2022
+São Paulo, BR • 2019 – 2022
 
-Network administration (BGP, VLANs, IPsec VPNs), Kubernetes environments (GKE/EKS), security audits, pentests, and ISO 27001 certification support.
-
-**Movile** — *Support Analyst*  
-São Paulo, BR • 2019 – 2020
-
-L2 Linux support, Git/Chef automation, API/PostgreSQL/BigQuery queries, and monitoring with Zabbix, Prometheus, and Grafana.
+Network administration (Firewall, BGP, VLANs, IPsec VPNs), Kubernetes environments (GKE/EKS), security audits, pentests, and ISO 27001 certification support.
 
 ---
 
@@ -89,11 +84,9 @@ L2 Linux support, Git/Chef automation, API/PostgreSQL/BigQuery queries, and moni
 | Certification | Issuer | Year |
 |---|---|---|
 | AWS Certified Security – Specialty | AWS | 2023 |
-| AWS Certified Cloud Practitioner | AWS | 2022 |
-| Microsoft Certified: Security, Compliance & Identity Fundamentals | Microsoft | 2023 |
-| Microsoft Certified: Azure Fundamentals | Microsoft | 2022 |
 | Certified in Cybersecurity (CC) | (ISC)² | 2022 |
 | Certified Network Security Specialist (CNSS) | ICSI | 2021 |
+| Microsoft Certified: Security, Compliance & Identity Fundamentals | Microsoft | 2023 |
 
 ---
 
@@ -105,7 +98,9 @@ L2 Linux support, Git/Chef automation, API/PostgreSQL/BigQuery queries, and moni
 
 ### Languages
 
-🇧🇷 Portuguese — Native · 🇺🇸 English — Advanced · 🇪🇸 Spanish — Basic
+🇧🇷 Portuguese — Native 
+🇺🇸 English — Advanced
+🇪🇸 Spanish — Basic
 
 ---
 
